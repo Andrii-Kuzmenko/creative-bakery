@@ -6,7 +6,7 @@ const App: React.FC = () => {
       <h1>Hello</h1>
       <main className={styles.main}></main>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
