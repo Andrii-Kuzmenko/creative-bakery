@@ -4,7 +4,7 @@ type Props = {
   className?: string;
 };
 
-export const Loader: FC<Props> = ({ className }) => (
+export const TwitterIcon: FC<Props> = ({ className }) => (
   <svg
     className={className}
     width="22"
